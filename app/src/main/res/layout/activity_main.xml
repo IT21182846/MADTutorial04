@@ -28,7 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="Entrer Password"
+        android:hint="Entrer Password1"
         android:inputType="textPassword" />
 
     <EditText
@@ -43,7 +43,7 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="SUBMIT" />
+        android:text="Submi1" />
 
     <Button
         android:id="@+id/button2"
